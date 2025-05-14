@@ -7,7 +7,8 @@
 
 ## Overview
 This repository contains complete paper, visuals, and supporting materials for:
-**"A Unified Roadmap to AGI (2025-2032): Achieving Functional Equivalence to Human Intelligence by Reconciling Conflicts and Bridging Nature with Artificiality"**
+**"A Unified Roadmap to AgI* (2025-2032): Achieving Functional Equivalence to Human Intelligence by Demystifying Conflicts and Bridging Nature with Artificiality"**
+AgI* - the lowercase "g" denotes a functional but non-conscious intelligence (discussed in the paper).
 The work presents a **pragmatic yet visionary strategy** to achieve artificial general intelligence that is functionally equivalent to human intelligence. It addresses both the fundamental limitations and systemic barriers in the current research ecosystems to AGI, proposing a practical approach under a coordinated, ethical and interdisciplinary roadmap.
 
 ## Contents
@@ -29,7 +30,7 @@ The work presents a **pragmatic yet visionary strategy** to achieve artificial g
 
 @misc{muthukumar2025agiroadmap,
 Author = {J. Muthu Kumar}
-Title = {A Unified Roadmap to AGI (2025-2032): Achieving Functional Equivalence to Human Intelligence by Reconciling Conflicts and Bridging Nature with Artificiality}
+Title = {A Unified Roadmap to AgI* (2025-2032): Achieving Functional Equivalence to Human Intelligence by Demystifying Conflicts and Bridging Nature with Artificiality}
 Year = {2025}
 Howpublished = {\url{https://github.com/jmuthukumar62/AGI-Roadmap-2025-2032-Bridging-Nature-and-Machine}},
 note = {self-published prepint}
